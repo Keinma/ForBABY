@@ -1,0 +1,43 @@
+body {
+  background-color: #ffffff;
+  text-align: justify;
+  font-family: 'Roboto Slab', serif;
+  color: #40514E;
+}
+
+h1 {
+  font-family: 'Sacramento';
+  font-size: 4rem;
+  margin-top: 3.3rem auto 0;
+  color: #041562;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1rem;
+  color: #11468F;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3 {
+  font-size: 1.15rem;
+  color: #292C6D;
+}
+
+img {
+  height: 20rem;
+  align-items: center !important;
+}
+
+p {
+  font-family: 'Roboto Slab', serif !important;
+  font-family: cursive;
+  margin: auto;
+}
+
+.first {
+  text-align: center;
+  font-family: 'Sacramento', cursive !important;
+  font-size: 2rem;
+}
